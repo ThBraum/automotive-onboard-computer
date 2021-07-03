@@ -1,0 +1,16 @@
+Ideia
+
+Implementar um sistema de computador de bordo automotivo
+
+Requisitos
+
+O sistema deve ser capaz de mostrar para o usuário o estado atual do desempenho
+funcionamento do veículo, como por exemplo velocidade, número de rotações do motor,
+temperatura do motor, pressão do óleo, voltagem da bateria, temperatura do óleo da
+transmissão, data e hora, consumo médio de combustível, distância percorrida, etc
+
+O sistema deve ser capaz de mostrar para o usuário a ocorrência de falhas elétricas
+ou mecânicas (bateria com pouca carga, pneus com pouca pressão, nível de óleo baixo,
+pastilhas de freio finas, etc)
+
+O sistema tem de ser portável para qualquer sistema operacional
